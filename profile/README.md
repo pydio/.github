@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/wiki/pydio/cells/images/PydioCellsColor.png" style="width:200px;"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/wiki/pydio/cells/images/PydioCellsColor.png" style="width:280px;"/></p>
 
 Pydio Cells is an open-source, self-hosted Document Sharing and Collaboration platform specifically designed for organizations that need advanced document-sharing and collaboration without security trade-offs or compliance issues.
 
