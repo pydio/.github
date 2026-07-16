@@ -16,4 +16,4 @@ Does your organization have complex compliance and security issues? Are SaaS sol
 
 ## Enterprise Support
 
-Pydio provides an Enterprise Support package for companies, along with advanced connectivity features (enterprise directories), detailed audits and reporting dashboards, and custom workflows. [Talk to an expert](https://pydio.com/en/pricing/contact) to put Pydio to work at your organization!
+Pydio provides an Enterprise Support package for companies, along with advanced connectivity features (enterprise directories), detailed audits and reporting dashboards, and custom workflows. [Talk to an expert](https://www.pydio.com/en/contact-us) to put Pydio to work at your organization!
